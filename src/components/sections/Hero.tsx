@@ -19,7 +19,7 @@ export function Hero() {
 ];
 
   return (
-    <section id="top" className="bg-white py-4 ">
+    <section id="top" className="bg-[#fffcf4] py-4 ">
       <div className="grid-none sm:grid grid-cols-2 leading-none">
         <div>
           <p className="text-[60px] sm:text-[120px] font-bold p-3">Let's <span>AUTOMATE</span></p>
