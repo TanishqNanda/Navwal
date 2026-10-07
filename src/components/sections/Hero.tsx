@@ -26,7 +26,7 @@ export function Hero() {
           <p className="text-[60px] sm:text-[110px] font-bold p-3">the boring work with NAVWAL</p>
           <p className="text-grey-200 text-lg sm:text-xl text-muted-foreground font-sans leading-relaxed m-2 max-w-xl">We build AI systems that answer customers, handle calls, follow up with leads, book appointments and keep working when your team isn't.</p>
             <div className="m-4 p-4">
-              <CTAButton className="p-4" color="black">SHOW ME WHAT TO AUTOMATE</CTAButton>
+              <CTAButton className="p-4">SHOW ME WHAT TO AUTOMATE</CTAButton>
             </div>
         </div>
 

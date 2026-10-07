@@ -8,7 +8,7 @@ export default function App(){
     return(
         <>       
             <Navbar/>
-            <main className="pt-20">
+            <main>
             <Hero/>
             <ProblemSection/>
             <MoneyProblemSection/>
